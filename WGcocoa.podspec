@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "WGCocoa"
-  s.version      = "1.1"
+  s.version      = "1.3"
   s.summary      = "wangweiguang"
 
   # This description is used to generate tags and improve search results.
